@@ -16,4 +16,4 @@ Some popular frameworks are:
 
 Frameworks developed at SuperBenefit:
 
-- [index](notes/primitives-project/framework/index.md)
+- [framework](notes/dao-primitives/framework/framework.md)

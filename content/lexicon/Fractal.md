@@ -13,6 +13,6 @@ Definition coming soon...
 
 ## Uses of Fractals
 
-### [index](notes/primitives-project/framework/index.md)
+### [framework](notes/dao-primitives/framework/framework.md)
 
 - A #fractal approach to [scaling](lexicon/Scale.md) is defined in the Primitives framework as "Fractal Scaling"

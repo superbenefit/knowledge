@@ -39,7 +39,7 @@ These elements are simple, repeatable, and can be applied across different depar
 
 ### DAO Primitives Framework
 
-The [index](notes/primitives-project/framework/index.md) aims to provide a practical resource for selecting and using #primitives to support and coordinate [purpose-aligned](lexicon/Purpose.md) networks of *small, autonomous teams*. 
+The [framework](notes/dao-primitives/framework/framework.md) aims to provide a practical resource for selecting and using #primitives to support and coordinate [purpose-aligned](lexicon/Purpose.md) networks of *small, autonomous teams*. 
 
 ### Other Frameworks
 

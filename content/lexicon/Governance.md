@@ -22,9 +22,9 @@ Articles on governance:
 
 ## Types of Governance
 
-- [Community Governance](notes/primitives-project/patterns/Community%20Governance.md)
-- [Stakeholder Governance](notes/primitives-project/patterns/Stakeholder%20Governance.md)
-- [Operational Governance](notes/primitives-project/patterns/Operational%20Governance.md)
+- [Community Governance](notes/dao-primitives/patterns/Community%20Governance.md)
+- [Stakeholder Governance](notes/dao-primitives/patterns/Stakeholder%20Governance.md)
+- [Operational Governance](notes/dao-primitives/patterns/Operational%20Governance.md)
 
 ## Governance Frameworks
 

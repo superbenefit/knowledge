@@ -5,9 +5,9 @@ tags: [groups/state]
 aliases: [ "#groups/state" ]
 ---
 
-**Group State** is a [group property](notes/primitives-project/framework/group-properties/index.md#^6009b0) referring to.. ^d95766
+**Group State** is a [group property](notes/dao-primitives/framework/group-properties/index.md#^6009b0) referring to.. ^d95766
 
-[index](notes/primitives-project/framework/group-properties/index.md) often publish their [state](notes/primitives-project/framework/group-properties/state.md) in a [Nucleus](lexicon/Nucleus.md) document to help #agents understand the #organization .
+[index](notes/dao-primitives/framework/group-properties/index.md) often publish their [state](notes/dao-primitives/framework/group-properties/state.md) in a [Nucleus](lexicon/Nucleus.md) document to help #agents understand the #organization .
 
 ## Definition
 

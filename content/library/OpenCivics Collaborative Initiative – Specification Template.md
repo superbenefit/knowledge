@@ -13,7 +13,7 @@ tags:
 
 The **Collaborative Initiative Specification Template 2.0** provides a structured framework for organizing and executing collaborative projects. It includes key sections like the project’s purpose, scope, stakeholders, governance models, decision-making processes, and success metrics. The template emphasizes clarity and accountability, ensuring that all participants understand their roles and contributions while promoting transparent and decentralized collaboration.
 
-This concept is similar to the SuperBenefit meme of [state](notes/primitives-project/framework/group-properties/state.md) ( #groups/state ).
+This concept is similar to the SuperBenefit meme of [state](notes/dao-primitives/framework/group-properties/state.md) ( #groups/state ).
 
 ---
 

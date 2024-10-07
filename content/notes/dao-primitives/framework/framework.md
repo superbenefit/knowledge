@@ -1,10 +1,5 @@
 ---
 title: DAO Primitives Framework
-author:
-  - yeoro.eth
-  - ananth.eth
-  - rathermercurial.eth
-authorURL: 
 draft: false
 tags:
   - daos
@@ -12,17 +7,7 @@ tags:
   - frameworks
 ---
 
-A framework for using DAO primitives, maintained by the [index](notes/primitives-project/index.md).
-
-%% Begin Waypoint %%
-- [Community Governance](notes/primitives-project/patterns/Community%20Governance.md)
-- [DAO Primitives Canvas.canvas](notes/primitives-project/framework/DAO%20Primitives%20Canvas.canvas)
-- [Fractal Scaling](notes/primitives-project/patterns/Fractal%20Scaling.md)
-- **[index](notes/primitives-project/framework/group-properties/index.md)**
-- [Stakeholder Governance](notes/primitives-project/patterns/Stakeholder%20Governance.md)
-- [Operational Governance](notes/primitives-project/patterns/Operational%20Governance.md)
-
-%% End Waypoint %%
+A framework for using DAO primitives, maintained by the [DAO Primitives Introduction](notes/dao-primitives/DAO%20Primitives%20Introduction.md).
 
 ---
 
@@ -38,13 +23,13 @@ From design and set of agreements we can choose from the pattern library the dif
 
 ### Tools
 
-#### [Frameworks](lexicon/Frameworks.md)\
+#### [Frameworks](lexicon/Frameworks.md)
 
 something about frameworks..
 
 Frameworks can be most useful to system designers, implementers, facilitators and learners, but can often be overwhelming to those looking to use the framework to build a mission-critical implementation. It's important to derive practical, case-specific instructions (such as [Playbooks](lexicon/Playbooks.md)) from frameworks which are intended to help everyday humans solve real-world problems.
 
-#### [patterns](notes/primitives-project/patterns/patterns.md)
+#### [patterns](notes/dao-primitives/patterns/patterns.md)
 
 Patterns are typically composed of:
 
@@ -74,18 +59,18 @@ For practical purposes, these concepts are loosely organized in alignment with t
 - **Agents** #agents 
 	- Bots
 	- Individuals
-	- [index](notes/primitives-project/framework/group-properties/index.md) #groups 
-		- [index](notes/primitives-project/framework/group-properties/scale/index.md) 
-			- [Collaboration Scale](notes/primitives-project/framework/group-properties/scale/Collaboration%20Scale.md) 
-			- [Coordination Scale](notes/primitives-project/framework/group-properties/scale/Coordination%20Scale.md) 
-			- [Constituency Scale](notes/primitives-project/framework/group-properties/scale/Constituency%20Scale.md) 
-			- [Network Scale](notes/primitives-project/framework/group-properties/scale/Network%20Scale.md) 
-		- [index](notes/primitives-project/framework/group-properties/phase/index.md) #groups/phase 
-			- Conversation Phase
-			- Formation Phase
-			- Organization Phase
-			- Coordination Phase
-		- [state](notes/primitives-project/framework/group-properties/state.md) #groups/state 
+	- [index](notes/dao-primitives/framework/group-properties/index.md) #groups 
+		- [index](notes/dao-primitives/framework/group-properties/scale/index.md) 
+			- [Collaboration Scale](notes/dao-primitives/framework/group-properties/scale/Collaboration%20Scale.md) 
+			- [Coordination Scale](notes/dao-primitives/framework/group-properties/scale/Coordination%20Scale.md) 
+			- [Constituency Scale](notes/dao-primitives/framework/group-properties/scale/Constituency%20Scale.md) 
+			- [Network Scale](notes/dao-primitives/framework/group-properties/scale/Network%20Scale.md) 
+		- [index](notes/dao-primitives/framework/group-properties/phase/index.md) #groups/phase 
+			- [Conversation Phase](notes/dao-primitives/framework/group-properties/phase/conversation.md)
+			- [Formation Phase](notes/dao-primitives/framework/group-properties/phase/formation.md)
+			- [Organization Phase](notes/dao-primitives/framework/group-properties/phase/organization.md)
+			- [Coordination Phase](notes/dao-primitives/framework/group-properties/phase/coordination.md)
+		- [state](notes/dao-primitives/framework/group-properties/state.md) #groups/state 
 			- [Purpose](lexicon/Purpose.md)
 			- [Practices](lexicon/Practices.md)
 			- Progress

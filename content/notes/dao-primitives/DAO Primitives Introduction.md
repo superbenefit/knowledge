@@ -51,7 +51,7 @@ _We believe that this combination highly innovative high context small teams, co
 
 ### **What are the DAO Primitives?**
 
-[index](notes/primitives-project/framework/index.md)
+[framework](notes/dao-primitives/framework/framework.md)
 
 1. The DAO primitives provide a set of generalisable building blocks with which to design _purpose aligned networks of small autonomous teams_. 
 
@@ -93,7 +93,7 @@ These primitives are designed and then composed together based on 3 **key concep
 
 **From these we have derived 4 initial organisational structures that can be used to design organisational systems.** 
 
-These are DAO's, [Cells](notes/primitives-project/patterns/Cell.md), Roles, and Tasks. Using the above conceptual framework as a guide, these primitive structures can be composed together to deliver governance and operational needs of many different organisational types. It is important to note that these are the initial structures that we have been experimenting with. You can develop other structures that can be used to operationalise entities/groups, networks and agreements in a DAO context. However, at this stage–given the complexity of implementing new organisational designs, practices and tool-sets–we think it is valuable to start with a simple set of structures out of which many different organisational types can be composed.
+These are DAO's, [Cells](notes/dao-primitives/patterns/Cell.md), Roles, and Tasks. Using the above conceptual framework as a guide, these primitive structures can be composed together to deliver governance and operational needs of many different organisational types. It is important to note that these are the initial structures that we have been experimenting with. You can develop other structures that can be used to operationalise entities/groups, networks and agreements in a DAO context. However, at this stage–given the complexity of implementing new organisational designs, practices and tool-sets–we think it is valuable to start with a simple set of structures out of which many different organisational types can be composed.
 
 1. **DAOs** - purpose aligned networks of small autonomous teams. These are the larger networks of smaller entities that coordinate their activities towards a shared purpose. If the network is large then the DAO will hold the constituency scale governance for the whole network. 
 
