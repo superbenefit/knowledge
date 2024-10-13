@@ -3,7 +3,7 @@ title: Pattern Library
 draft: false
 ---
 
-**Patterns** are combinations of [Practices](lexicon/Practices.md) and [Protocols](lexicon/Protocols.md) used, often according to [Frameworks](lexicon/Frameworks.md), to compose [Primitives](lexicon/Primitives.md) into implementations of organizational tooling.
+**Patterns** are combinations of [Practices](notes/dao-primitives/Practices.md) and [Protocols](notes/dao-primitives/Protocols.md) used, often according to [Frameworks](lexicon/Frameworks.md), to compose [Primitives](notes/dao-primitives/Primitives.md) into implementations of organizational tooling.
 
 ---
 
