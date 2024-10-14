@@ -1,8 +1,10 @@
 ---
 title: Primitives
 draft: false
-tags: [primitives]
-aliases: [ "#primitives" ]
+tags:
+  - primitives
+aliases:
+  - "#primitives"
 ---
 
 Primitives are the most basic, foundational elements or operations in any system or domain, serving as the essential building blocks from which more complex structures, processes, or concepts are created.
@@ -39,7 +41,7 @@ These elements are simple, repeatable, and can be applied across different depar
 
 ### DAO Primitives Framework
 
-The [framework](notes/dao-primitives/framework/framework.md) aims to provide a practical resource for selecting and using #primitives to support and coordinate [purpose-aligned](notes/dao-primitives/Purpose.md) networks of *small, autonomous teams*.
+The [DAO Primitives Framework](notes/dao-primitives/DAO%20Primitives%20Framework.md) aims to provide a practical resource for selecting and using #primitives to support and coordinate [purpose-aligned](notes/dao-primitives/Purpose.md) networks of *small, autonomous teams*.
 
 ### Other Frameworks
 

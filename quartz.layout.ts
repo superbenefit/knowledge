@@ -27,7 +27,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      title: "Knowledge", // title of the explorer component
+    })),
   ],
   right: [
     Component.Graph(),
@@ -44,7 +46,9 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      title: "Knowledge Garden", // title of the explorer component
+    })),
   ],
   right: [],
 }

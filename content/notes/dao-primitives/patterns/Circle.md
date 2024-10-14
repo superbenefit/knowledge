@@ -12,7 +12,7 @@ tags:
   - patterns
 ---
 
-A **Circle** is a [patterns](notes/dao-primitives/patterns/patterns.md) expressed by [[notes/dao-primitives/framework/group-properties/scale/Coordination Scale]] groups composed of smaller, goal-aligned [[teams]] and their [delegates](lexicon/Delegation.md). 
+A **Circle** is a [patterns](notes/dao-primitives/patterns/patterns.md) expressed by [[tags/groups/scale/Coordination Scale]] groups composed of smaller, goal-aligned [[tags/teams]] and their [delegates](tags/delegation.md). 
 
 ---
 

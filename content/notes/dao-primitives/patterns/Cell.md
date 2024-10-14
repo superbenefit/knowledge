@@ -8,7 +8,6 @@ draft: false
 type: Pattern
 tags:
   - patterns
-  - groups
   - groups/scale/collaboration
 ---
 

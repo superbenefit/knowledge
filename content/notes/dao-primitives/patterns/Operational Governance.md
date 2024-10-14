@@ -2,11 +2,10 @@
 title: Operational Governance
 harvester: 
 draft: false
-tags: governance/stakeholder
-aliases:
-  - "#governance/stakeholder"
+tags: 
+aliases: []
 ---
-In web3, **Stakeholder Governance** is the practice of [governing](lexicon/Governance.md) common-pool resources by coordinating potentially diverse groups of stakeholders who contribute resources to collectively-owned smart contracts.
+In web3, **Stakeholder Governance** is the practice of [governing](tags/governance.md) common-pool resources by coordinating potentially diverse groups of stakeholders who contribute resources to collectively-owned smart contracts.
 
 Such groups are _purpose-aligned_, using their shared resources to accomplish commonly held objectives such as [grantmaking](https://lunardao.net/), [investing](https://www.metacartel.org/), [stewardship of resources or culture](https://www.krausehouse.club/), [proliferating memes](https://nouns.wtf/), [providing social security and solidarity](https://breadchain.xyz/), [activism](https://daocentral.com/dao/ukraine), [advocacy](https://www.lobby3.io/), etc.
 

@@ -2,9 +2,8 @@
 title: Community Governance
 harvester: 
 draft: false
-tags: governance/community
-aliases:
-  - "#governance/community"
+tags: 
+aliases: []
 ---
 
 **Community Governance** will be defined soon..

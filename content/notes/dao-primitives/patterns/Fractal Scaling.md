@@ -5,8 +5,8 @@ draft: true
 tags: #fractal #scale 
 ---
 
-A fractal approach to [scaling](lexicon/Scale.md) organizations.
+A fractal approach to [scaling](tags/Scale.md) organizations.
 
 ---
 
-- Fractal Scaling is mentioned in the [framework](notes/dao-primitives/framework/framework.md)
+- Fractal Scaling is mentioned in the [DAO Primitives Framework](notes/dao-primitives/DAO%20Primitives%20Framework.md)

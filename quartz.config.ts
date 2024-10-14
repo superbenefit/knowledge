@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "sb-garden-test.rathermercurial.xyz",
+    ignorePatterns: ["private", "templates", ".obsidian", ".github"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

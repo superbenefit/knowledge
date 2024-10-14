@@ -20,7 +20,7 @@ _Rowan is a contributor to [SuperBenefitDAO](https://www.superbenefit.org/) and 
 
 ## Designing network economies for autonomous teams to operate in.
 
-Recently many in the web3 community have been refocusing the concept of DAOs. Going from the idea of DAOs being sprawling, unwieldy communities to DAOs ideally being smaller, more pragmatic units of creative innovation that can engage with communities in new and richer ways. This is an attempt to retain a lot of the power and potential of DAOs, but reduce much of the complexity that has been encountered as communities have scaled, and their ability to govern themselves has failed to [scale](notes/dao-primitives/framework/group-properties/scale/index.md) with them.
+Recently many in the web3 community have been refocusing the concept of DAOs. Going from the idea of DAOs being sprawling, unwieldy communities to DAOs ideally being smaller, more pragmatic units of creative innovation that can engage with communities in new and richer ways. This is an attempt to retain a lot of the power and potential of DAOs, but reduce much of the complexity that has been encountered as communities have scaled, and their ability to govern themselves has failed to [scale](tags/groups/scale/index.md) with them.
 
 The problem with this refocusing however, is that we can’t escape the fact that these smaller more functional DAOs still operate inside an existing economic and social context. And this larger context will continue to exert a profound influence on everything that occurs at smaller scales. I think that transforming this larger socio/economic context still remains the fundamental opportunity for web3.
 
@@ -118,9 +118,9 @@ In the early examples we are experimenting with, the design requires that if Com
 
 This system leverages mechanisms that derive collective intelligence from the three different scales that a DAO network operates across:
 
-1. **[Collaboration Scale](notes/dao-primitives/framework/group-properties/scale/Collaboration%20Scale.md)** - Cells operating as high bandwidth small scale collaborative units that can think and move fast and are operating at the grassroots of the system.
-2. **[Coordination Scale](notes/dao-primitives/framework/group-properties/scale/Coordination%20Scale.md)** - structures of Cells operating together in coordinating systems using [sociocratic governance](https://www.sociocracyforall.org/sociocracy/) to allocate resources and effectively create and implement strategies for the Cells to execute on (Operational Governance).
-3. **[Constituency Scale](notes/dao-primitives/framework/group-properties/scale/Constituency%20Scale.md)** - participation of a broader constituency of stakeholders that safeguard and evolve the long-term purpose of the network (Community Governance).
+1. **[Collaboration Scale](tags/groups/scale/Collaboration%20Scale.md)** - Cells operating as high bandwidth small scale collaborative units that can think and move fast and are operating at the grassroots of the system.
+2. **[Coordination Scale](tags/groups/scale/Coordination%20Scale.md)** - structures of Cells operating together in coordinating systems using [sociocratic governance](https://www.sociocracyforall.org/sociocracy/) to allocate resources and effectively create and implement strategies for the Cells to execute on (Operational Governance).
+3. **[Constituency Scale](tags/groups/scale/Constituency%20Scale.md)** - participation of a broader constituency of stakeholders that safeguard and evolve the long-term purpose of the network (Community Governance).
 
 ![](https://superbenefit.mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FLHhCO36Aq6bN48886TQQA.png&w=3840&q=75)
 

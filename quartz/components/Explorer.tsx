@@ -10,7 +10,7 @@ import { i18n } from "../i18n"
 
 // Options interface defined in `ExplorerNode` to avoid circular dependency
 const defaultOptions = {
-  folderClickBehavior: "collapse",
+  folderClickBehavior: "link",
   folderDefaultState: "collapsed",
   useSavedState: true,
   mapFn: (node) => {
@@ -33,7 +33,7 @@ const defaultOptions = {
       return -1
     }
   },
-  filterFn: (node) => node.name !== "tags",
+  filterFn: (node) => node.name !== "drafts",
   order: ["filter", "map", "sort"],
 } satisfies Options
 

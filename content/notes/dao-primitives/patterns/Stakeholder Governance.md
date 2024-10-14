@@ -2,9 +2,8 @@
 title: Stakeholder Governance
 harvester: 
 draft: false
-tags: governance/operations
-aliases:
-  - "#governance/operations"
+tags: 
+aliases: []
 ---
 
 **Governance** will be defined soon..

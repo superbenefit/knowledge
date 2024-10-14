@@ -30,7 +30,7 @@ AMY X. ZHANG, University of Washington, USA
 ### Introduction
 The paper introduces **Modular Politics** as a model for building governance systems in online communities by using modular, composable elements. These systems would allow communities to create flexible, portable, and interoperable governance structures.
 
-See [Frameworks](lexicon/Frameworks.md) #frameworks  for more info
+See [frameworks](tags/frameworks.md) #frameworks  for more info
 
 > We propose a strategy for addressing this lapse by modeling and specifying a governance layer for online networks with the following eventual design goals:
 >

@@ -5,7 +5,7 @@ author:
   - Alex Hannant
   - SuperBenefit
 type: Article
-draft: true
+draft: false
 tags:
   - governance
   - daos
@@ -17,7 +17,7 @@ Given governance is, in essence, how authority and accountability is held and ac
 
 With this in mind, [SuperBenefit DAO](https://www.superbenefit.org/) is convening a [series of conversations](https://superbenefit.mirror.xyz/Bcsl19CZ67amLJY_bee5dUy0DEboZykuMQqw58wGlGI) to explore how the nature of governance is evolving and its role in accelerating transitions to better futures. We’re specifically interested in how web3 technologies are enabling new thinking and their potential to combine with existing practices, perspectives, and traditional wisdom.
 
-The first conversation we hosted was on #meta-governance. We gathered with a small group of founders and DAO-ers to discuss what it is and where it could take us.
+The first conversation we hosted was on #metagovernance governance. We gathered with a small group of founders and DAO-ers to discuss what it is and where it could take us.
 
 ## The contributors
 

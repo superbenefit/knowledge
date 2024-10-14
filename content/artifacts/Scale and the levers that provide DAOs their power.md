@@ -10,7 +10,7 @@ group: primitives
 draft: false
 tags:
   - daos
-  - scale
+  - groups/scale
 ---
 
 _Rowan is a contributor to [SuperBenefitDAO](https://www.superbenefit.org/) and works on scalable models of coordination and fractal DAO governance. Deep gratitude to Heenal Rajani and Michael Lewkowitz for contributing to this article. This article is the second in our series exploring the concept of DAOs as networks and the evolving nature of DAO design._
@@ -25,7 +25,7 @@ If we can shed this ‘company as centralising entity’ paradigm and instead se
 
 DAOs and companies are fundamentally different systems. Companies operate **business models**. DAOs are **network economies**. And this distinction is at the heart of why DAOs have the potential to usher in a new paradigm.
 
-Unpacking what network economies are and how they are different and more powerful than business models will require some framing. The concept of [index](notes/dao-primitives/framework/group-properties/scale/index.md) will be our way into understanding this; and to explain scale, I will lean heavily on Geoffrey West’s work on the dynamics of how systems scale.
+Unpacking what network economies are and how they are different and more powerful than business models will require some framing. The concept of [index](tags/groups/scale/index.md) will be our way into understanding this; and to explain scale, I will lean heavily on Geoffrey West’s work on the dynamics of how systems scale.
 
 A fuller explanation can be found [here](https://www.youtube.com/watch?v=nxgHyPCCqaw&t=2s), but at a high level there are two fundamental dynamics to understand:
 

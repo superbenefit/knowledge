@@ -7,7 +7,7 @@ author:
   - SuperBenefit
 type: Article
 group: primitives
-draft: true
+draft: false
 tags:
   - governance
 ---
@@ -20,7 +20,7 @@ Beyond the governance of #orgs, #communities, and #networks, we’ll probe the n
 
 ## Three conversations
 
-Over three conversations, we engaged with people who bring different and complementary perspectives to governance. This included experience and views from [DAOs](lexicon/DAOs.md), other decentralised networks, the co-operative movement, Indigenous cultures, purpose-led business, and civic and systems innovation.
+Over three conversations, we engaged with people who bring different and complementary perspectives to governance. This included experience and views from [daos](tags/daos.md), other decentralised networks, the co-operative movement, Indigenous cultures, purpose-led business, and civic and systems innovation.
 
 We explored perspectives on the essential functions and attributes of governance, and the design implications for governance arrangements that seek to foster decentralisation, pluralism, and regeneration.
 
@@ -72,7 +72,7 @@ Taking place from 6:30 to 7:30 pm EST on Thursday, June 16, **the second Twitter
 
 Taking place from 6:30 to 7:30 pm EST on Thursday, June 30, **the third Twitter Space in this series** featured:
 
-- **[Jayne Engle](https://twitter.com/JayneEngle)** - Civic Futures | strategist/urbanist/builder/seeker | adj professor urbanism [@mcgillu](https://twitter.com/mcgillu) | [#SacredCivics](https://twitter.com/search?q=%23SacredCivics&src=hashtag_click): Building [Seven Generation Cities](http://bit.ly/7GenCities)
+- **[Jayne Engle](https://twitter.com/JayneEngle)** - Civic Futures | strategist/urbanist/builder/seeker | adj professor urbanism [@mcgillu](https://twitter.com/mcgillu) | [SacredCivics](https://twitter.com/search?q=%23SacredCivics&src=hashtag_click): Building [Seven Generation Cities](http://bit.ly/7GenCities)
     
 - **Tina Jennen** - Tina is involved with the [Wellbeing Protocol](https://www.thewellbeingprotocol.org) ([see video](https://www.youtube.com/watch?v=RXRkLfAEaK0)) and, with a diverse range of governance experience, has insights into how governance and design approaches can foster community and civic self-determination
     

@@ -5,7 +5,7 @@ author:
   - Alex Hannant
   - SuperBenefit
 type: Article
-draft: true
+draft: false
 tags:
   - governance
   - daos
@@ -17,7 +17,7 @@ The first conversation we hosted was on [‘meta-governance’](https://superben
 
 ## The contributors
 
-- [@JayneEngle](https://twitter.com/JayneEngle) - Civic Futures [#ParticipatoryCanada](https://twitter.com/search?q=%23ParticipatoryCanada&src=hashtag_click) [@ParticipatoryC](https://twitter.com/ParticipatoryC) [@agirrecenter](https://twitter.com/agirrecenter) | Prof [@mcgillu](https://twitter.com/mcgillu) | Book [#SacredCivics](https://twitter.com/search?q=%23SacredCivics&src=hashtag_click): Building 7 Gen Cities [http://bit.ly/7GenCities](https://t.co/ftBGPN0Bc7) [](https://twitter.com/AlexHannant)
+- [@JayneEngle](https://twitter.com/JayneEngle) - Civic Futures [ParticipatoryCanada](https://twitter.com/search?q=%23ParticipatoryCanada&src=hashtag_click) [@ParticipatoryC](https://twitter.com/ParticipatoryC) [@agirrecenter](https://twitter.com/agirrecenter) | Prof [@mcgillu](https://twitter.com/mcgillu) | Book [SacredCivics](https://twitter.com/search?q=%23SacredCivics&src=hashtag_click): Building 7 Gen Cities [http://bit.ly/7GenCities](https://t.co/ftBGPN0Bc7) [](https://twitter.com/AlexHannant)
 - [@AlexHannant](https://twitter.com/AlexHannant) - Transitions to regenerative futures [@YunusGriffith](https://twitter.com/yunusgriffith) | [@SuperBenefitDAO](https://mobile.twitter.com/superbenefitdao) | Board [@BCorpANZ](https://twitter.com/bcorpanz?lang=en)
 - [Tina Jennen](https://www.linkedin.com/in/tinajennen/?originalSubdomain=nz) - Board [TECT](https://www.tect.org.nz/), [WaikatoLink](https://waikatolink.co.nz/) | [Edmund Hillary Fellow](https://twitter.com/EHFNewZealand?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | Advisory Boards [Wellbeing Protocol](https://www.thewellbeingprotocol.org/) and [Collective Intelligence](https://www.collectiveintelligence.co.nz/)
 - Moderated by: [@ml_baldwin](https://twitter.com/ml_baldwin) and [@HeenalR](https://twitter.com/HeenalR)
