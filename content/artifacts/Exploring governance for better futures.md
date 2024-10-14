@@ -16,7 +16,7 @@ tags:
 
 We are specifically interested in how Web3 technologies are enabling new models of governance towards these ends, and their potential to combine with existing practices, perspectives, and wisdom.
 
-Beyond the governance of #orgs, #communities, and #networks, we’ll probe the notion of meta-governance and the practicalities of governance in a systems context.
+Beyond the governance of orgs, communities, and networks, we’ll probe the notion of meta-governance and the practicalities of governance in a systems context.
 
 ## Three conversations
 

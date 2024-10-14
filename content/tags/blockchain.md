@@ -12,7 +12,7 @@ aliases:
 
 A blockchain is a type of distributed database system for managing information that can reduce the need for central authorities or trusted intermediaries to oversee interactions and make sure the network rules are being followed. This enables participants to engage in peer-to-peer data and value transfers, and potentially, to contribute to the design, functioning, and management of the network – i.e. to build networks based on [multi-stakeholder governance](https://app.charmverse.io/superbenefit/multi-stakeholder-governance-topic-9333924420657016). Blockchains are a subset of distributed ledger technologies (DLT)—ie. all blockchains are distributed ledgers, but not all distributed ledgers are blockchains. 
 
-[](https://s3.amazonaws.com/charm.public/user-content/5e11b90e-6728-4be9-be4f-a540138316ff/5767b83f-94fc-4a12-8517-144fa1b3bb4d/3c7ef267-5c1c-4cc1-b951-d9355f1709c6.png)
+![](https://s3.amazonaws.com/charm.public/user-content/5e11b90e-6728-4be9-be4f-a540138316ff/5767b83f-94fc-4a12-8517-144fa1b3bb4d/3c7ef267-5c1c-4cc1-b951-d9355f1709c6.png)
 
 In a blockchain network, identical copies of a database are stored on multiple computers, resulting in a single, shared ledger that records the history of interactions and asset ownership in the network, and maintains the rules governing interactions. This distributed structure leads to a lot of discussion about the extent and value of decentralization, but beware the hype: decentralization could refer to many different things, like the distribution of hardware, software, or decision-making power. Distributed computing power is not the same as distributed political power. 
 

@@ -7,7 +7,7 @@ tags:
   - frameworks
 ---
 
-A framework for using DAO primitives, maintained by the [DAO Primitives Cell](notes/dao-primitives/DAO%20Primitives.md).
+A framework for using DAO primitives, maintained by the [DAO Primitives Cell](notes/dao-primitives/index.md).
 
 ---
 

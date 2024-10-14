@@ -25,25 +25,16 @@ In systems design and #organization , #primitives refer to the most basic, found
 
 In #web3 tooling, #primitives refer to basic building blocks or fundamental components that developers use to create decentralized applications (dApps) and blockchain-based systems. These include elements like tokens, wallets, smart contracts, consensus mechanisms, and decentralized identities, which serve as reusable, interoperable pieces of code or protocols. By combining and extending these primitives, developers can efficiently build more complex applications and services within the decentralized ecosystem.
 
-## Types of Primitives
-
-- #resources #activities #agents #agreements #permissions
-
 ---
 
 ## How Primitives are Used
 
-Organizations can benefit from #primitives by leveraging these basic building blocks to streamline processes, improve efficiency, and enhance flexibility. Guided by #frameworks and #patterns of #practices and #protocols , #orgs use #primitives (often bundled into #modules ) to compose #instances which serve their #purpose. By breaking down complex tasks or systems into simpler, reusable components, they can standardize operations, reduce redundancy, and adapt quickly to changes.
+Organizations can benefit from primitives by leveraging these basic building blocks to streamline processes, improve efficiency, and enhance flexibility. By breaking down complex tasks or systems into simpler, reusable components, they can standardize operations, reduce redundancy, and adapt quickly to changes.
 
-In #organization design, primitives might include basic structures like teams, roles, or decision-making protocols. For example, an organization may establish core decision-making primitives, such as a standardized approval process or a defined escalation path for resolving issues.
+In organization design, primitives might include basic structures like teams, roles, or decision-making protocols. For example, an organization may establish core decision-making primitives, such as a standardized approval process or a defined escalation path for resolving issues.
 
 These elements are simple, repeatable, and can be applied across different departments or projects, allowing the organization to maintain consistency while adapting to various challenges. By utilizing these foundational building blocks, organizations can ensure that their operations are efficient, flexible, and aligned with their strategic goals.
 
 ### DAO Primitives Framework
 
 The [DAO Primitives Framework](notes/dao-primitives/DAO%20Primitives%20Framework.md) aims to provide a practical resource for selecting and using #primitives to support and coordinate [purpose-aligned](notes/dao-primitives/Purpose.md) networks of *small, autonomous teams*.
-
-### Other Frameworks
-
-- [Anticapture](library/Anticapture.md)
-- [Modular Politics](library/Modular%20Politics.md)

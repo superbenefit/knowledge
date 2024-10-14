@@ -6,7 +6,6 @@ author:
 authorURL: https://opencivics.co/
 draft: false
 tags:
-  - templates
   - organization
   - groups/state
 ---

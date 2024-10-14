@@ -10,7 +10,11 @@ tags:
   - frameworks
 ---
 
-*The Blockchain Governance Toolkit: A Cookbook for a Resilient and Robust Ecosystem*, presents a detailed governance framework for blockchain networks. It is designed to help developers create resilient and robust governance systems tailored to their specific project needs. Here is a summary of the key elements of the proposed framework:
+*The Blockchain Governance Toolkit: A Cookbook for a Resilient and Robust Ecosystem*, presents a detailed governance framework for blockchain networks. It is designed to help developers create resilient and robust governance systems tailored to their specific project needs. 
+
+**[https://www.projectliberty.io/wp-content/uploads/2024/06/PL_Toolkit_Report_v7.pdf](https://www.projectliberty.io/wp-content/uploads/2024/06/PL_Toolkit_Report_v7.pdf)**
+
+Here is a summary of the key elements of the proposed framework:
 
 1. **Governance Trade-offs (Flavors)**: 
    Blockchain governance involves trade-offs across three dimensions: 
