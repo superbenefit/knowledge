@@ -8,10 +8,16 @@ aliases:
   - "#resources"
 ---
 
-In the context of organizations and systems, particularly in Web3, **resources** refer to the assets— such as funds, data, infrastructure, or human capacity —that are collectively managed, shared, and allocated through decentralized networks to achieve common goals.
+Resources are assets or materials, such as money, time, equipment, or knowledge, that are utilized to achieve [[tags/goals|goals]], complete tasks, or support activities. ^22f819
 
----
+## Uses of "Resources"
 
-Some types of resources are 
+### [DAO Primitives Framework](tags/primitives.md#^6d6e1a) 
 
-- [attestations](tags/attestations.md)
+![[tags/primitives#^25939f]]
+
+### [[library/Anticapture|Anticapture]]
+
+In [[library/Anticapture|Anticapture]], _resources_ are defined as anything that can be used to achieve desired outcomes, including tangible assets like food, money, and energy, as well as intangible ones like attention and social reputation. The term distinguishes between _private resources_, controlled by a single [[tags/agents|agents]], and _shared resources_, governed by a network of agents. Shared resources are particularly vulnerable to capture, making decentralized governance essential to protect them from misuse or control by bad actors
+
+![[library/Anticapture#^f53fa2]]

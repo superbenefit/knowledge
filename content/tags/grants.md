@@ -11,5 +11,4 @@ aliases:
 
 In Web3, grants are decentralized, often community-governed financial contributions aimed at funding public goods, projects, or initiatives that align with the values of transparency, inclusivity, and open-source development.
 
----
 

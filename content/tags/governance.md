@@ -17,9 +17,6 @@ Articles on governance:
 - [Governance for better futures - Meta-governance](artifacts/Governance%20for%20better%20futures%20-%20Meta-governance.md)
 - [Governance for better futures - New and Old](artifacts/Governance%20for%20better%20futures%20-%20New%20and%20Old.md)
 
-
-
-
 ## Types of Governance
 
 - [Community Governance](notes/dao-primitives/patterns/Community%20Governance.md)

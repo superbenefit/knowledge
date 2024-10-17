@@ -73,7 +73,7 @@ This model of “security” by hierarchies of concentrated power has long been 
 
 Recently, there has been a breakthrough. Blockchains and smart contracts have revealed a new trust model for governance over shared resources that relies instead on a combination of cryptography and wide distribution of power. This model makes possible a new category of governance, called capture-resistant governance.
 
-**The promise of capture-resistant governance is managing shared resources in a way that prevents capture of those resources by bad actors.** In so doing, it also unlocks a new frontier of what is possible together. The amazing fluidity, flexibility, and adaptability exhibited by early web3-native communities is testament to what’s possible when our governance structures avoid capture of shared resources without the rigidity of traditional approaches.
+**The promise of capture-resistant governance is managing shared resources in a way that prevents capture of those resources by bad actors.** In so doing, it also unlocks a new frontier of what is possible together. The amazing fluidity, flexibility, and adaptability exhibited by early web3-native communities is testament to what’s possible when our governance structures avoid capture of shared resources without the rigidity of traditional approaches. ^f53fa2
 
 This article introduces _Anticapture_, a framework for understanding capture-resistant governance. _Anticapture_ seeks to understand the fundamentals of capture-resistant governance by examining how organizations – modeled as _networks_ of _agents_ – take _actions_ to manage _resources_ in service of their objectives.
 
