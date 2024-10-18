@@ -1,5 +1,5 @@
 ---
-title: DAO Primitives
+title: DAO Primitives Project
 draft: false
 tags:
   - daos
@@ -7,13 +7,13 @@ tags:
 index: true
 ---
 
-Intro coming soon... ^502d53
+The DAO Primitives project at SuperBenefit explores the landscape of social and technical [[tags/primitives|primitives]] in the [[tags/decentralization|decentralized]] web, specifically those used in the governance and operations of [[tags/daos|DAOs]] and [[tags/purpose|purpose-aligned]] [[networks]] of small, [[tags/autonomy|autonomous]] [[tags/teams|teams]].
 
 ---
 
 # **Introduction**
 
-The DAO Primitive Model is a set of design [[tags/primitives|primitives]] and [[notes/dao-primitives/patterns/patterns|patterns]] for building [[tags/daos|DAOs]] as **purpose** aligned networks of small autonomous [[tags/teams|teams]]. It includes a set of un-opinionated building blocks (primitives) out of which a DAO structure can be designed. These primitives allow for the deliberate design of [[governance]] and operational systems that can coherently scale as the activities of the DAO grow in size and complexity.
+The DAO Primitive Model is a set of design [[tags/primitives|primitives]] and [[notes/dao-primitives/patterns/patterns|patterns]] for building [[tags/daos|DAOs]] and other onchain organizations. It includes a set of un-opinionated building blocks (primitives) out of which a DAO structure can be designed. These primitives allow for the deliberate design of [[governance]] and operational systems that can coherently scale as the activities of the DAO grow in size and complexity.
 
 The Primitives act as a handful of generic building blocks that, through a facilitated process, can be composed together into a governance and operational structure to serve the needs and preferences of a coordinating collective. The primitives are implemented using more opinionated coordination patterns and technical [[tags/modules|modules]] (these are housed in a [[notes/dao-primitives/patterns/patterns|pattern library]]) to produce practical and scalable [[tags/systems|systems]]. The resulting governance and operational structure may end up being called a “DAO” but we anticipate the term “DAO” becoming less and less useful as we collectively experiment in and map these emerging coordination approaches.
 
