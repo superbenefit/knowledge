@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "sb-garden-test.rathermercurial.xyz",
+    baseUrl: "knowledge.superbenefit.org",
     ignorePatterns: ["private", "templates", ".obsidian", ".github"],
     defaultDateType: "created",
     theme: {
@@ -74,8 +74,8 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [
-      Plugin.RemoveDrafts()
-      // Plugin.ExplicitPublish()
+      Plugin.RemoveDrafts(),
+      Plugin.ExplicitPublish()
     ],
     emitters: [
       Plugin.AliasRedirects(),
