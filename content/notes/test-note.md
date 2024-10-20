@@ -1,6 +1,7 @@
 ---
-{"title":"Test","publish":true,"path":"notes/test-note.md","permalink":"/notes/test-note/","PassFrontmatter":true}
+title: Test
+publish: true
+PassFrontmatter: false
 ---
 
-
-This is a test.
+This is a test
