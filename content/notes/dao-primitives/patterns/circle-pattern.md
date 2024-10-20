@@ -1,13 +1,8 @@
 ---
 title: Circle
 author: 
-draft: true
+publish: true
 type: Pattern
-groupScale:
-  - Coordination
-groupPhase:
-  - Organization
-  - Coordination
 tags:
   - patterns
 ---

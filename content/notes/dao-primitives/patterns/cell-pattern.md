@@ -4,7 +4,7 @@ author:
   - Rowan Yeoman
   - ananth.eth
   - rathermercurial.eth
-draft: false
+publish: true
 type: Pattern
 tags:
   - patterns

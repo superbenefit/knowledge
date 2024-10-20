@@ -7,5 +7,5 @@ This is a test of the dataview plugin
 
 ---
 
-- [[notes/dao-primitives/patterns/Cell Pattern\|Cell Pattern]]
-- [[notes/dao-primitives/patterns/test pattern\|test pattern]]
+- [[notes/dao-primitives/patterns/cell-pattern\|Cell Pattern]]
+- [[notes/dao-primitives/patterns/test-pattern\|test pattern]]
