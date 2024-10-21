@@ -27,3 +27,11 @@ Info collected from the web by the SuperBenefit community.
 ### [Notes](./notes/index.md#)
 
 intro coming soon..
+
+---
+
+## Credits
+
+### Contributors
+
+- rathermercurial.eth
