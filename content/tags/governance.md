@@ -1,7 +1,8 @@
 ---
 title: Governance
 harvester: 
-tags: governance
+tags:
+  - functions
 aliases:
   - "#governance"
 publish: "true"
@@ -19,9 +20,9 @@ Articles on governance:
 
 ## Types of Governance
 
-- [Community Governance](../notes/dao-primitives/pattern-library/Community%2520Governance.md#)
-- [Stakeholder Governance](../notes/dao-primitives/pattern-library/Stakeholder%2520Governance.md#)
-- [Operational Governance](../notes/dao-primitives/pattern-library/Operational%2520Governance.md#)
+- [Community Governance](../notes/primitives/patterns/Community%2520Governance.md#)
+- [Stakeholder Governance](Stakeholder%2520Governance.md#)
+- [Operational Governance](../notes/primitives/patterns/Operational%2520Governance.md#)
 
 ## Governance Frameworks
 
