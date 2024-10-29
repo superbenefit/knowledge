@@ -1,5 +1,5 @@
 ---
-title: DAO Primitives Project
+title: DAO Primitives
 description: Notes for the DAO Primitives project at SuperBenefit
 publish: "true"
 type: index
@@ -83,7 +83,7 @@ _We believe that this combination highly innovative high context small teams, co
 
 **From these we have derived 4 initial organisational structures that can be used to design organisational systems.** 
 
-These are DAO's, [Cells](cell-pattern.md#), Roles, and Tasks. Using the above conceptual framework as a guide, these primitive structures can be composed together to deliver governance and operational needs of many different organisational types. It is important to note that these are the initial structures that we have been experimenting with. You can develop other structures that can be used to operationalise entities/groups, networks and agreements in a DAO context. However, at this stage–given the complexity of implementing new organisational designs, practices and tool-sets–we think it is valuable to start with a simple set of structures out of which many different organisational types can be composed.
+These are DAO's, [Cells](../../../cell-pattern.md#), Roles, and Tasks. Using the above conceptual framework as a guide, these primitive structures can be composed together to deliver governance and operational needs of many different organisational types. It is important to note that these are the initial structures that we have been experimenting with. You can develop other structures that can be used to operationalise entities/groups, networks and agreements in a DAO context. However, at this stage–given the complexity of implementing new organisational designs, practices and tool-sets–we think it is valuable to start with a simple set of structures out of which many different organisational types can be composed.
 
 1. **DAOs** - purpose aligned networks of small autonomous teams. These are the larger networks of smaller entities that coordinate their activities towards a shared purpose. If the network is large then the DAO will hold the constituency scale governance for the whole network. 
 
@@ -161,25 +161,14 @@ You can dive deeper into how the primitives work together [**here**](https://app
 ## DAO Primitives Index
 
 %% Begin Waypoint %%
-- [DAO Primitives](./DAO%20Primitives.canvas.md)
-- **[framework](./framework/index.md)**
-  - **[Group Phase](./framework/phase/index.md)**
-    - [Conversation Phase](./framework/phase/conversation.md)
-    - [Coordination Phase](./framework/phase/coordination.md)
-    - [Formation Phase](./framework/phase/formation.md)
-    - [Organization Phase](./framework/phase/organization.md)
-  - **[Group Scale](./framework/scale/index.md)**
-    - [Collaboration Scale](./framework/scale/collaboration.md)
-    - [Constituency Scale](./framework/scale/constituency.md)
-    - [Coordination Scale](./framework/phase/coordination.md)
-    - [Network Scale](./framework/scale/network.md)
-  - [Group State](./framework/state.md)
-- [Group Facilitation Framework](./group-facilitation.md)
-- **[patterns](./patterns/index.md)**
-  - [Cell (Pattern)](cell-pattern.md)
-  - [Circle](circle-pattern.md)
-  - [Community Governance](./patterns/Community%20Governance.md)
-  - [Operational Governance](./patterns/Operational%20Governance.md)
-  - [Stakeholder Governance](Stakeholder%20Governance.md)
+- [DAO Primitives.canvas](./DAO%20Primitives.canvas)
+- **[framework](./framework/index.md#)**
+- [Group Facilitation Framework](./group-facilitation.md#)
+- **[patterns](./patterns/index.md#)**
+  - [Cell (Pattern)](../../../cell-pattern.md#)
+  - [Circle](../../../circle-pattern.md#)
+  - [Community Governance](./patterns/Community%2520Governance.md#)
+  - [Operational Governance](./patterns/Operational%2520Governance.md#)
+  - [Stakeholder Governance](../../../Stakeholder%2520Governance.md#)
 
 %% End Waypoint %%
