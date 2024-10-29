@@ -109,4 +109,4 @@ We recommend following the [Group Facilitation Framework](../group-facilitation.
 
 ---
 
-*Note: This framework is part of the [DAO Primitives Project](../index.md) and aligns with our goal of creating practical resources for DAO implementation.*
+*Note: This framework is part of the [primitives](../index.md#) and aligns with our goal of creating practical resources for DAO implementation.*
