@@ -1,11 +1,20 @@
 ---
-title: Operational Governance
+title: Stakeholder Governance
 harvester: 
-tags: 
-aliases: []
 description: ""
 publish: "true"
+scale:
+  - coordination
+  - constituency
+  - network
+phase:
+  - formation
+  - organization
+function:
+  - governance
+quality: 
 ---
+
 In web3, **Stakeholder Governance** is the practice of [governing](../../../tags/governance.md#) common-pool resources by coordinating potentially diverse groups of stakeholders who contribute resources to collectively-owned smart contracts.
 
 Such groups are _purpose-aligned_, using their shared resources to accomplish commonly held objectives such as [grantmaking](https://lunardao.net/), [investing](https://www.metacartel.org/), [stewardship of resources or culture](https://www.krausehouse.club/), [proliferating memes](https://nouns.wtf/), [providing social security and solidarity](https://breadchain.xyz/), [activism](https://daocentral.com/dao/ukraine), [advocacy](https://www.lobby3.io/), etc.
@@ -87,9 +96,3 @@ If you know some frens who also want to familiarize themselves with stakeholder 
 ### Partner With a DAO
 
 Some service DAOs, such as SuperBenefit, offer facilitation to partners and outside stakeholders who seek a guided web3 experience. This offers mature organizations the opportunity to explore web3 coordination and decentralized governance without the barrier of developing these initiatives internally.
-
----
-
-# Related Items
-
----
