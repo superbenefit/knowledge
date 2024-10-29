@@ -6,7 +6,7 @@ description: ""
 publish: "true"
 ---
 
-**Collaboration Scale** is a level of [group scale](./index.md).. ^c0c7b2
+**Collaboration Scale** is a level of group scale.. ^c0c7b2
 
 ---
 
