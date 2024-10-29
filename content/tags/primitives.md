@@ -1,10 +1,13 @@
 ---
 title: Primitives
+publish: "true"
 tags:
-  - primitives
+  - resources
 aliases:
   - "#primitives"
-publish: "true"
+  - primitives
+  - "#primitive"
+  - primitive
 ---
 
 Primitives are the most basic, foundational elements or operations in any system or domain, serving as the essential building blocks from which more complex structures, processes, or concepts are created.
@@ -23,7 +26,13 @@ In systems design and #organization , #primitives refer to the most basic, found
 
 ### Primitives in web3
 
-In #web3 tooling, #primitives refer to basic building blocks or fundamental components that developers use to create decentralized applications (dApps) and blockchain-based systems. These include elements like tokens, wallets, smart contracts, consensus mechanisms, and decentralized identities, which serve as reusable, interoperable pieces of code or protocols. By combining and extending these primitives, developers can efficiently build more complex applications and services within the decentralized ecosystem.
+In #web3 tooling, primitives refer to basic building blocks or fundamental components that developers use to create decentralized applications (dApps) and blockchain-based systems. These include elements like tokens, wallets, smart contracts, consensus mechanisms, and decentralized identities, which serve as reusable, interoperable pieces of code or protocols. By combining and extending these primitives, developers can efficiently build more complex applications and services within the decentralized ecosystem.
+
+### Primitives in this repository
+
+Some notes in this knowledge garden represent primitives, and include metadata to help you navigate and discover them.
+
+Notes which represent #primitives are indicated using the [primitive](primitive.md) file class (`type: primitive`). This file class (a subclass of [resource](tools/types/resource/resource.md) and [link](link.md) ) contains several metadata fields which are either inherited or unique.
 
 ---
 
@@ -31,75 +40,6 @@ In #web3 tooling, #primitives refer to basic building blocks or fundamental comp
 
 Organizations can benefit from primitives by leveraging these basic building blocks to streamline processes, improve efficiency, and enhance flexibility. By breaking down complex tasks or systems into simpler, reusable components, they can standardize operations, reduce redundancy, and adapt quickly to changes.
 
-In organization design, primitives might include basic structures like teams, roles, or decision-making protocols. For example, an organization may establish core decision-making primitives, such as a standardized approval process or a defined escalation path for resolving issues.
-
 These elements are simple, repeatable, and can be applied across different departments or projects, allowing the organization to maintain consistency while adapting to various challenges. By utilizing these foundational building blocks, organizations can ensure that their operations are efficient, flexible, and aligned with their strategic goals.
 
----
-
-## Concepts Related to Primitives
-
-Many concepts are used in relation to *primitives*, and the specific qualities which define a primitive may shift from one situation to another. In the context of DAO primitives, we're referring to the social practices, software modules and coordination protocols used in the design and implementation of platforms for purpose-aligned networks of small autonomous teams.
-
-Since interacting with DAO Primitives can require us to navigate information-dense realms full of abstract memes and contextually-shifting jargon, it can be helpful to familiarize ourselves with some basic concepts, and how they can relate to one another in useful ways.
-
-Below is a practical framework for using these concepts to inform our approach to DAO Primitives. You'll see these terms come up a lot in this realm, so here's one way to make sense of them. 
-
-### [Resources](./resources.md#)
-
-^6d6e1a
-
-Resources are assets or materials, such as money, time, equipment, or knowledge, that are utilized to achieve [goals](tags/goals.md), complete tasks, or support activities.**The promise of capture-resistant governance is managing shared resources in a way that prevents capture of those resources by bad actors.** In so doing, it also unlocks a new frontier of what is possible together. The amazing fluidity, flexibility, and adaptability exhibited by early web3-native communities is testament to what’s possible when our governance structures avoid capture of shared resources without the rigidity of traditional approaches.
-
-In the context of organizations and systems, particularly in Web3, **resources** refer to the assets— such as funds, data, infrastructure, or human capacity —that are collectively managed, shared, and allocated through decentralized networks to achieve common goals. ^25939f
-
-#### [Platforms](./platforms.md#) 
-
-Platforms are structures or environments that facilitate interactions, exchanges, or services between [agents](tags/agents.md), enabling the development and coordination of various activities or solutions.
-
-In the context of organizations and systems, **platforms** are digital or organizational infrastructures that facilitate the interaction, collaboration, and exchange of resources or services, especially in decentralized environments like Web3/DAOs, enabling the creation and distribution of public goods and driving social impact initiatives. ^83b042
-
-- [Primitives](primitives.md#)
-	- [Practices](./practices.md#)
-	- [Protocols](./protocols.md#)
-	- [Modules](./modules.md#)
-- [Policies](./policies.md#)
-- [Permissions](./permissions.md)
-
-#### [roles](./roles.md#) #roles
-
-**Roles**, in the context of Web3 and systems or organizational design, are defined responsibilities or functions assigned to individuals or entities within social and technological coordination systems, guiding actions, decision-making, and interactions to ensure efficient decentralized collaboration and governance. ^096d38
-
-- Responsibilities
-	- Functions
-	- [Tasks](./tasks.md)
-- Authorities
-	- [Permissions](./permissions.md) #permissions 
-	- Compensation
-- Eligibility
-- Accountability
-
-#### Assets
-
-- 
-
-### [actions](./actions.md)
-
-In the context of organization and systems design, actions are the measurable processes or events through which resources are created, exchanged, or transformed, driving the flow of value within the system.
-
-
-- Agreements #agreements  
-- Transactions
-
-### Agents #agents 
-
-Agents are individuals or entities that act or make decisions on behalf of themselves or others, influencing outcomes through their actions or choices in various systems or environments.
-
-In the context of organization and systems design, agents are individuals or entities responsible for initiating, controlling, or participating in actions, typically engaging in the exchange or management of resources to achieve objectives.
-
-- Individuals
-- [Groups](tags/groups/index.md) #groups   
-- Bots
-
-For practical purposes, these concepts are loosely organized in alignment with the [REA ontology](https://en.wikipedia.org/wiki/Resources%2C_Events%2C_Agents) for information systems. It's not that important, so feel free to remix them however you like.
-
+At SuperBenefit, we're exploring the potential and practical uses of web3 primitives in the [DAO Primitives Project](../notes/primitives/index.md). For help choosing the patterns, practices and primitives for your project, check out the [group facilitation framework](../notes/primitives/group-facilitation.md). You can learn more about our approach in the [conceptual framework](../notes/primitives/framework/index.md).
