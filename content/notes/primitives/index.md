@@ -178,8 +178,9 @@ You can dive deeper into how the primitives work together [**here**](https://app
 - **[patterns](./patterns/index.md#)**
   - [Cell (Pattern)](../../../cell-pattern.md#)
   - [Circle](../../../circle-pattern.md#)
-  - [Community Governance](./patterns/Community%2520Governance.md#)
+  - [Community Governance](../../../Community%2520Governance.md#)
   - [Operational Governance](../../../operational-governance.md#)
   - [Stakeholder Governance](./patterns/Stakeholder%2520Governance.md#)
+  - [Untitled](./patterns/Untitled.md#)
 
 %% End Waypoint %%
