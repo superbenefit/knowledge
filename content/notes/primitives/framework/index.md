@@ -1,107 +1,99 @@
 ---
 title: DAO Primitves Conceptual Framework
 description: A simple framework for using concepts related to DAO primitives.
-publish: true
+publish: "true"
 type: note
 ---
 
 This framework organizes the foundational concepts used in [DAO](../../../tags/daos.md) design and operation. It serves as a practical guide for understanding how these components interact within decentralized organizations.
 
----
-
-## Key Concepts
-
-Many concepts are used in relation to *primitives*, and the specific qualities which define a primitive may shift from one situation to another. In the context of DAO primitives, we're referring to the social practices, software modules and coordination protocols used in the design and implementation of platforms for purpose-aligned networks of small autonomous teams.
-
-Since interacting with DAO Primitives can require us to navigate information-dense realms full of abstract memes and contextually-shifting jargon, it can be helpful to familiarize ourselves with some basic concepts, and how they can relate to one another in useful ways.
-
-Below is a practical framework for using these concepts to inform our approach to DAO Primitives. You'll see these terms come up a lot in this realm, so here's one way to make sense of them. 
-
-### Entities
-
-Organizations [govern](../../../tags/governance.md) and use [resources](../../../tags/resources.md) to [empower](../../../tags/power.md) agents to take action in 
-
-*For practical purposes, these concepts are loosely organized in alignment with the [REA ontology](https://en.wikipedia.org/wiki/Resources%2C_Events%2C_Agents) for information systems. It's not that important, so feel free to remix them however you like.*
-
-#### Resources
-Resources form the foundation of all DAO operations, encompassing both tangible and intangible assets that can be managed and exchanged within the network. [resources](../../../tags/resources.md) are collectively managed through decentralized networks to achieve shared objectives.
-
-[Platforms](../../../tags/platforms.md) create the underlying structure that enables DAO operations, combining technical and organizational frameworks to facilitate coordination:
-
-* **Digital & Organizational Infrastructure**
-    * Technical systems, Collaboration tools, Resource management
-    * Governance structures, Operational processes, Cultural systems
-
-The basic building blocks of DAO systems include:
-
-* **Social [Practices](../../../tags/practices.md) & Technical [Protocols](../../../tags/protocols.md)**
-    * Community norms, Collaboration methods, Cultural patterns
-    * Governance mechanisms, Resource allocation, Access control
-* **Operational [Modules](../../../tags/modules.md)**
-    * Task management, Role definition, Value distribution
-* **[Policies](../../../tags/policies.md) & [Permissions](../../../tags/permissions.md)**
-    * Operating procedures, Guidelines, Risk frameworks
-    * Access rights, Role authorities, Resource controls
-
-#### Actions
-[Actions](../../../tags/actions.md) represent all activities that create change within the DAO ecosystem. They range from simple transactions to complex governance decisions and are characterized by measurable outcomes, defined triggers, and clear ownership.
-
-DAO actions include:
-* **Core Operations**
-    * Resource allocation, Task execution, Decision-making
-* **[Agreements](../../../tags/agreements.md) & [Transactions](Transactions.md)**
-    * Explicit contracts, Network protocols, Value exchanges
-    * Resource transfers, Information flows
-
-#### Agents
-[Agents](../../../tags/agents.md) are the active participants who initiate and execute actions in the DAO ecosystem. They operate with specific capabilities and responsibilities that define their role in the network:
-
-* **Individual & Collective Agents**
-    * Community members, Contributors, Stakeholders
-    * Working groups, Sub-DAOs, Partner networks
-* **Automated Agents**
-    * Smart contracts, Service bots, Oracle networks
-
-Each agent type maintains:
-* Decision rights and resource access
-* Role assignments and accountability
-* Performance tracking and outcome delivery
-
----
-
-## Group Facilitation
-
-
-### Group Properties
+- group-facilitation
 
 - **[Group Phase](./phase/index.md#)**
-  - [Conversation Phase](./phase/conversation.md#)
-  - [Coordination Phase](./phase/coordination.md#)
-  - [Formation Phase](./phase/formation.md#)
-  - [Organization Phase](./phase/organization.md#)
 - **[Group Scale](./scale/index.md#)**
-  - [Collaboration Scale](./scale/collaboration.md#)
-  - [Constituency Scale](./scale/constituency.md#)
-  - [Coordination Scale](./scale/coordination.md#)
-  - [Network Scale](./scale/network.md#)
 - [Group State](./state.md#)
 
 ---
 
-## Integration Patterns
-[Integration Patterns](../patterns/index.md) describe how these components work together to create cohesive, functional systems. The framework enables:
+## Key Concepts
 
-* **Structural & Operational Integration**
-    * Nested hierarchies and network relationships
-    * Workflow processes and decision pathways
-    * Resource flows and communication channels
-* **Implementation Objectives**
-    * Progressive decentralization with coordination
-    * Scalable operations with resource efficiency
-    * Adaptive governance with clear boundaries
+This framework helps you navigate the complexities of organizational development by considering your group's phase, scale, and state.  By understanding these three key aspects, you can make informed decisions about the tools, approaches, and structures that best suit your organization's needs.
 
-It's a good idea to work with your organization or community to select a pattern they'd like to follow at first.. But it can be hard to consider a broad range of complex possibilities with a large group. One important step in pattern selection is to narrow the selection to just the most relevant options before presenting them to the community.
+### 1. Group Phase: Stages of Development
 
-We recommend following the [Group Facilitation Framework](../group-facilitation.md) to identify the patterns, practices and primitives which might be relevant to your project.
+All groups go through different stages as they grow. Understanding these stages helps you choose the right tools and approaches at each step.  Our framework identifies four key phases:
+
+*   **Conversation Phase:**  Initial exploration and idea generation.
+*   **Coordination Phase:**  Planning and aligning on goals and processes.
+*   **Formation Phase:**  Establishing structures and systems.
+*   **Organization Phase:**  Ongoing operation and evolution.
+
+[Learn more about Group Phases](./phase/index.md#)
+
+
+### 2. Group Scale: Size and Complexity
+
+The size and complexity of your group significantly impact how it functions.  Different scales require different tools and approaches.  Our framework identifies four key scales:
+
+*   **Collaboration Scale:** Small teams working closely together.
+*   **Coordination Scale:**  Larger groups coordinating across multiple teams.
+*   **Constituency Scale:**  Broader communities participating in governance.
+*   **Network Scale:**  Interconnected networks of organizations.
+
+[Learn more about Group Scales](./scale/index.md#)
+
+
+### 3. Group State: Defining Your Organization
+
+Understanding your organization's current state is crucial for effective coordination and interoperability with other groups.  We use a framework focusing on three key aspects: **Purpose**, **Practices**, and **Progress**.
+
+*   **Purpose:** What is your organization's overarching goal? How does it contribute to the broader network's purpose?  A clear articulation of purpose ensures alignment and guides decision-making.
+
+*   **Practices:** How does your organization function? This includes decision-making processes, resource allocation, communication methods, and other operational aspects.  Clearly defined practices ensure efficiency and consistency.
+
+*   **Progress:** How is progress towards the organization's purpose tracked and measured?  This includes timelines, milestones, deliverables, and other metrics.  Tracking progress enables accountability and informs future planning.
+
+[Learn more about Group State](./state.md#)
 
 ---
+
+## Group Facilitation: A Framework for Organizational Design
+
+This section provides a high-level overview of the Group Facilitation Framework. For a detailed guide to using the framework, please refer to the comprehensive documentation: group-facilitation.
+
+The Group Facilitation Framework helps you design and implement effective organizational structures by considering three key properties of groups:  **Phase**, **Scale**, and **State**.  Understanding these properties is crucial for selecting the appropriate primitives and patterns for your specific context.  The framework guides you through a process of identifying your group's current state and then selecting the most suitable tools and approaches from the Pattern Library to support your group's evolution.
+
+
+### Key Concepts and Their Relationship to Implementation Patterns
+
+The framework connects the key concepts of Phase, Scale, and State to the implementation patterns in the following ways:
+
+*   **Group Phase:**  Different groups go through distinct phases of development.  Understanding these phases allows you to tailor your approach to the group's current needs and adapt as it evolves.  The framework outlines these phases and suggests appropriate patterns for each stage. [Learn more about Group Phase](./phase/index.md#.md#).
+
+*   **Group Scale:** Human systems function differently at different scales.  The framework helps you leverage this understanding to design organizational systems that function effectively, regardless of size.  Different scales require different tools and practices. [Learn more about Group Scale](./scale/index.md#.md#).
+
+*   **Group State:**  For effective decentralized organization, entities within a network need to be interoperable and universally addressable.  The concept of *group state* helps achieve this by allowing entities to maintain their independence while integrating into the larger network. [Learn more about Group State](./state.md#).
+
+
+By considering these three properties, the framework guides you in selecting appropriate patterns from the Pattern Library to implement your organizational design.  The patterns provide practical, tested solutions that align with your group's specific context and stage of development.
+
+
+###  Further Exploration
+
+For a detailed explanation of the Group Facilitation Framework, including step-by-step guidance and practical examples, please refer to the complete documentation: group-facilitation.
+
+---
+
+## Integration Patterns
+
+The [Pattern Library](../../patterns/index.md#) provides reusable solutions to common organizational challenges. These patterns combine primitives into practical implementations, showing how to effectively integrate the core concepts discussed in this framework.  The patterns within the library are categorized and described to facilitate discovery and selection based on your organization's specific context (phase and scale).
+
+To effectively leverage the Pattern Library, follow these steps:
+
+1.  **Assess Your Context:** Use the Group Facilitation Framework (group-facilitation) to determine your group's current phase and scale. This assessment will highlight the challenges you face and the types of solutions you need.
+
+2.  **Identify Relevant Patterns:**  Navigate the Pattern Library ([notes/patterns/patterns.md](../../patterns/index.md#.md#)) using the provided index.  Focus on patterns that address the challenges identified in step 1, considering the specific needs of your group's phase and scale.  The library's organization by phase and scale will help you quickly find relevant patterns.
+
+3.  **Review and Adapt:**  Carefully review the selected patterns to understand their underlying principles and implementation details.  Adapt the patterns to your specific context, ensuring they align with your group's goals and constraints.
+
+4.  **Implement and Iterate:**  Implement the chosen patterns and monitor their effectiveness.  Iterate on your implementation based on feedback and experience, refining your approach as needed.
