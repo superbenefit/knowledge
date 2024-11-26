@@ -1,6 +1,6 @@
 ---
 title: The Blockchain Governance Toolkit
-source: https://www.projectliberty.io/wp-content/uploads/2024/06/PL_Toolkit_Report_v7.pdf
+url: https://www.projectliberty.io/wp-content/uploads/2024/06/PL_Toolkit_Report_v7.pdf
 author:
   - BlockchainGov
 tags:
@@ -46,4 +46,4 @@ This framework is presented in a “cookbook” format, offering flexibility in 
 
 ---
 
-![](../attachments/PL_Toolkit_Report_v7.pdf)
+![](../../attachments/PL_Toolkit_Report_v7.pdf)
