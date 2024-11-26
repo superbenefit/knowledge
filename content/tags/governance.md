@@ -20,10 +20,10 @@ Articles on governance:
 
 ## Types of Governance
 
-- [Community Governance](../notes/primitives/patterns/Community%2520Governance.md#)
-- [Stakeholder Governance](../notes/primitives/patterns/Stakeholder%2520Governance.md#)
-- [operational-governance](../../operational-governance.md#)
+- [Community Governance](notes/primitives/patterns/Community%20Governance.md)
+- [stakeholder-governance](../drafts/stakeholder-governance.md#)
+- [operational-governance](notes/primitives/patterns/operational-governance.md)
 
 ## Governance Frameworks
 
-- [Anticapture](../library/Anticapture.md#)
+- [anticapture](../library/Anticapture.md#)
