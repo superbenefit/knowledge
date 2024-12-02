@@ -17,3 +17,19 @@ Playbooks build upon the foundational elements found in other parts of this know
 * **Patterns:** Playbooks leverage proven solutions to common organizational challenges (documented in the readme).  They show how to combine primitives effectively to achieve specific goals.
 
 Playbooks, therefore, provide practical, step-by-step guidance for implementing the strategies and solutions outlined in the patterns and built from primitives.
+
+---
+
+## How to Use the Playbook Library
+
+To effectively use this library, start by identifying the specific organizational challenge or area of interest you're exploring. Consider the following:
+
+* **Organizational Context:** What type of organization is involved?  What is its size and structure?
+* **Specific Challenges:** What problems or opportunities are addressed in the case study?
+* **Methods and Approaches:** What strategies and techniques were employed?
+* **Outcomes and Results:** What were the successes and challenges encountered?
+
+### Querying Playbooks
+
+<div><ul class="dataview list-view-ul"><li><span></span></li><li><span></span></li></ul></div>
+
