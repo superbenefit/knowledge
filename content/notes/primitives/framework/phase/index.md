@@ -12,6 +12,7 @@ Groups evolve through distinct phases, each demanding unique tools and approache
 - [Formation Phase](./formation.md#)
 - [Organization Phase](./organization.md#)
 - [Coordination Phase](./coordination.md#)
+- [Completion Phase].(./completion.md)
 
 ---
 
@@ -23,6 +24,6 @@ This framework, applied within the context of DAO primitives (Entities/Groups, N
 
 **3. [Organization Phase](./organization.md#):**  The Organization Phase builds on the Formation Phase, transitioning from a basic framework to a fully established, formal structure with defined processes and governance mechanisms. This phase is characterized by the implementation of clear systems, procedures, and decision-making frameworks, enabling the group to operate efficiently and effectively. The primary goal is to create a sustainable and scalable organizational structure.  *Tools and practices* include governance documents, DAO tooling, project management software, and communication protocols. [Learn more](./organization.md#)
 
-**4. [Coordination Phase](./coordination.md#):** This phase focuses on integrating the group into networks and collaborating with other groups.  It builds upon the Organization Phase, shifting from internal focus to external collaboration, resource sharing, and alignment with broader network goals. The primary goal is to maximize the group's impact and effectiveness within a larger ecosystem. [Learn more](./coordination.md#)
+**4. [Coordination Phase](./coordination.md#):** This phase focuses on integrating the group into networks and collaborating with other groups.  It builds upon the Organization Phase, shifting from internal focus to external collaboration, resource sharing, and alignment with broader network goals. The primary goal is to maximize the group's impact and effectiveness within a larger ecosystem. [Learn more](../scale/coordination.md#)
 
 
