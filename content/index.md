@@ -20,28 +20,28 @@ This knowledge garden aims to:
 
 ## Content Areas
 
-### [Artifacts](./artifacts.md#)
+### [Artifacts](./artifacts/index.md#)
 Published, refined content that represents our collective understanding. This includes:
 - Finished research and analysis
 - Project documentation
 - Published articles and resources
 - Community-validated knowledge
 
-### [Lexicon](./tags.md#)
+### [Lexicon](./tags/index.md#)
 Our shared vocabulary and conceptual framework, including:
 - Term definitions
 - Tag hierarchies and relationships
 - Common concepts and their context
 - Evolving terminology
 
-### [Library](./library.md#)
+### [Library](./links/index.md#)
 Curated external resources and our engagement with them:
 - Referenced articles and papers
 - Commentary and analysis
 - Relevant external projects
 - Connected ideas and insights
 
-### [Notes](./notes.md#)
+### [Notes](./notes/index.md#)
 Active working documents where ideas develop:
 - Project-specific documentation
 - Research in progress
