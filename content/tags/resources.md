@@ -15,8 +15,8 @@ Resources are assets or materials, such as money, time, equipment, or knowledge,
 
 ![tags/primitives](./primitives.md#^25939f)
 
-### [anticapture](../library/Anticapture.md)
+### [Anticapture](../links/Anticapture.md)
 
-In [anticapture](../library/Anticapture.md), _resources_ are defined as anything that can be used to achieve desired outcomes, including tangible assets like food, money, and energy, as well as intangible ones like attention and social reputation. The term distinguishes between _private resources_, controlled by a single [agents](./agents.md), and _shared resources_, governed by a network of agents. Shared resources are particularly vulnerable to capture, making decentralized governance essential to protect them from misuse or control by bad actors
+In [Anticapture](../links/Anticapture.md), _resources_ are defined as anything that can be used to achieve desired outcomes, including tangible assets like food, money, and energy, as well as intangible ones like attention and social reputation. The term distinguishes between _private resources_, controlled by a single [agents](./agents.md), and _shared resources_, governed by a network of agents. Shared resources are particularly vulnerable to capture, making decentralized governance essential to protect them from misuse or control by bad actors
 
-![library/anticapture](../library/Anticapture.md#^f53fa2)
+![links/Anticapture](../links/Anticapture.md#^f53fa2)
