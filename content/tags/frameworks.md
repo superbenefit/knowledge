@@ -11,8 +11,8 @@ publish: "true"
 
 Some popular frameworks are: 
 
-- [anticapture](../library/Anticapture.md#)
-- [Modular Politics](../library/Modular%2520Politics.md#)
+- [Anticapture](../links/Anticapture.md#)
+- [Modular Politics](../links/Modular%2520Politics.md#)
 
 Frameworks developed at SuperBenefit:
 
